@@ -18,7 +18,7 @@ weight = 57
 +++
 <h2>University of Missouri</h2>
 
-_[Graduate Teaching Assistant]_
+_Graduate Teaching Assistant_
 + Research Methods and Inquiry in Public Affairs II, 2021 Fall - 2022 Fall. _(Graduate, Online)_
 + Research Methods and Inquiry in Public Affairs I, 2021 Spring - 2023 Spring. _(Graduate, Online)_
 + The Public and Policy Change, 2020 Fall. _(Graduate, Online)_
